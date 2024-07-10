@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hanyohan0923.github.io/sitemap.xml
